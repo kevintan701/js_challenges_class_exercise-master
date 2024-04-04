@@ -14,5 +14,5 @@ input[type="submit"]{
   justify-self:center;
   border: 3px solid green;
   grid-column: 1 / span 2;
-  font-size: 150%;
+  font-size: 100%;
 }
