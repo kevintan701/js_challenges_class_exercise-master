@@ -1,4 +1,5 @@
-# js_challenges_class_exercise
+# Welcome to Kevin Tan's js_challenges_class_exercise.
+# Have a great day.
 Starter Code for the JavaScript challenges
 
 JavaScript Challenges
